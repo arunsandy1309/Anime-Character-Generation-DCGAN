@@ -1,6 +1,6 @@
 # DCGAN in PyTorch
-<img src="https://user-images.githubusercontent.com/50144683/229373082-03d5f09d-0c07-48a5-9c67-fc1ee87057da.gif" width=45% height=35%></br>
-**Picture:** _These anime faces were produced by our generator after 200 epochs on different aspects of the images._
+<img src="https://user-images.githubusercontent.com/50144683/229373082-03d5f09d-0c07-48a5-9c67-fc1ee87057da.gif" width=55% height=45%></br>
+**Picture:** _These anime faces were produced by our generator from 1 to 50 epochs on different aspects of the images._
 
 This repository contains the Pytorch implementation of the following paper:
 >**Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks**</br>
@@ -22,9 +22,9 @@ First, download the Anime Faces dataset from [Kaggle](https://www.kaggle.com/dat
 
 ## Results
 After 1<sup>st</sup> Epoch:</br>
-<img src="https://user-images.githubusercontent.com/50144683/229377671-29abef1a-c44c-4995-9ff3-606f81ebe48f.png" width=45% height=35%></br>
+<img src="https://user-images.githubusercontent.com/50144683/229377671-29abef1a-c44c-4995-9ff3-606f81ebe48f.png" width=55% height=45%></br>
 After 50<sup>th</sup> Epoch:</br>
-<img src="https://user-images.githubusercontent.com/50144683/229378004-cbe0a381-3538-48cb-b060-be1768be2583.png" width=45% height=35%></br>
+<img src="https://user-images.githubusercontent.com/50144683/229378004-cbe0a381-3538-48cb-b060-be1768be2583.png" width=55% height=45%></br>
 More results can be found [here](https://github.com/arunsandy1309/Anime-Character-Generation-DCGAN/tree/main/results)
 
 ## Related Works
