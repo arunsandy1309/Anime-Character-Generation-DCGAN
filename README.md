@@ -30,3 +30,4 @@ More results can be found [here](https://github.com/arunsandy1309/Anime-Characte
 ## Related Works
 + [Vanilla GAN in PyTorch](https://github.com/arunsandy1309/Vanilla-GAN)
 + [Generating Real World Images using DCGAN in PyTorch](https://github.com/arunsandy1309/RealWorld-Image-Generation-DCGAN)
++ [Conditional GAN in PyTorch](https://github.com/arunsandy1309/Conditional-GAN-PyTorch)
